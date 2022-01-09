@@ -1,14 +1,10 @@
 # Exploration into Natural Language Processing in Python
 
-These Python scripts were used to clean and analyze individual Netflix user data from March 11, 2020 onwards (the pandemic).
+Gain a better understanding of the capabilities of the Python [Natural Language Toolkit]() library, as well as additional NLP libraries [spaCy](https://spacy.io/), [YAKE](https://pypi.org/project/yake/) and [Rake-Nltk](https://pypi.org/project/rake-nltk/)
 
 ## Tech stack
 
 - Python, nltk, spaCy, YAKE, Rake-Nltk
-
-## Goals
-
-- Gain a better understanding of the capabilities of the Python [Natural Language Toolkit]() library, as well as additional NLP libraries [spaCy](https://spacy.io/), [YAKE](https://pypi.org/project/yake/) and [Rake-Nltk](https://pypi.org/project/rake-nltk/)
 
 ## Summary of findings
 
